@@ -7,4 +7,6 @@ Code of  telegram bot - 2020234609:AAHIpPURs54SfQd3OCr8JF5J89ilnZYc4JQ
 2) Установить pipenv install в папку
 3) Установить нужные библиотеки в папку pip install PyTelegramBotAPI etc.
 4) Подготовить бот для деплоя
-5) 
+5) Скачать и установить heroku-cli - https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+6) Войти через терминал в личный кабинет heroku - heroku login
+7) Создать приложение на Heroku - heroku create "app_name"

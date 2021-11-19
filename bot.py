@@ -17,7 +17,7 @@ def error(update, context):
 
 def main():
 	TOKEN = "2020234609:AAHIpPURs54SfQd3OCr8JF5J89ilnZYc4JQ"
-	TEST_WORK = "https://mytest3bot.herokuapp.com/"
+	TEST_WORK = "https://mytest4bot.herokuapp.com/"
     """Start the bot."""
     # Create the Updater and pass it your bot's token.
     # Make sure to set use_context=True to use the new context based callbacks
